@@ -3,21 +3,6 @@
 </script>
 
 <template>
-  <div class="containar">
-    <div class="form">
-      
-    </div>
-  </div>
+  <h1>首页</h1>
 </template>
-<style lang="scss" scope>
-.containar {
-  width: 100%;
-  height: 100%;
-  background-image: url('../../assets/imgs/background.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: flex;
-  overflow: hidden;
-}
-</style>
+<style lang="scss" scope></style>
